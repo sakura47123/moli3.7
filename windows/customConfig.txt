@@ -1,0 +1,3 @@
+cdnUrl|https://cdn37.baihe.fit/windows/
+serverUrl|http://gao.baihe.fit
+serverZone|1
